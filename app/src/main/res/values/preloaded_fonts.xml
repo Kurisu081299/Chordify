@@ -2,5 +2,6 @@
 <resources>
     <array name="preloaded_fonts" translatable="false">
         <item>@font/joti_one</item>
+        <item>@font/kadwa</item>
     </array>
 </resources>
